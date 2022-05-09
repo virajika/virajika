@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @virajika
-- 👀 I’m interested inlearning new things
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning C & Python
 - 💞️ I’m looking to collaborate on embedded systems design
 - 📫 How to reach me- avirajika@yahoo.com
